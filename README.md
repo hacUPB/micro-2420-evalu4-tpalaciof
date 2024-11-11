@@ -1,6 +1,6 @@
 # Documentación del Proyecto
 ---
-Nombre del estudiante:  
-ID: 
+Nombre del estudiante: Tomás Palacio 
+ID: 000458613
 
 ---
