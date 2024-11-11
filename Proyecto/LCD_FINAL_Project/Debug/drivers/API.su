@@ -1,0 +1,3 @@
+../drivers/API.c:55:6:lcd_init	8	static
+../drivers/API.c:84:6:Comleft	24	static
+../drivers/API.c:104:6:Comright	24	static

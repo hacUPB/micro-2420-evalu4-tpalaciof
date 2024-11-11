@@ -1,0 +1,3 @@
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\LCD_FINAL_Project\drivers/fsl_clock.h:644:20:CLOCK_EnableClock	16	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\LCD_FINAL_Project\drivers/fsl_port.h:346:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:6:6:BOARD_InitPins	16	static

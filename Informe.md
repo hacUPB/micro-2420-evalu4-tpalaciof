@@ -19,7 +19,7 @@ pin_mux.c:
 pin_mux.h 
 ![alt text](image-4.png)
 
-Para el código de nuestro proyecto, se implementaron 3 tipos de archivos (con su respectivo .c para crear las funciones y su .h para llamar a las funciones creadas) según el nivel de abstracción que se cumplían dentro del proyecto. Estos archivos fueron el API, HAL y LOW_LEVEL: mayor nivel, mediano nivel, y más bajo nivel de abstracción respectivamente. 
+Para el código de nuestro proyecto, se implementaron 3 tipos de archivos dentro de la rama drivers del proyecto (con su respectivo .c para crear las funciones y su .h para llamar a las funciones creadas) según el nivel de abstracción que se cumplían dentro del proyecto. Estos archivos fueron el API, HAL y LOW_LEVEL: mayor nivel, mediano nivel, y más bajo nivel de abstracción respectivamente. 
 
 Mi archivo HAL contaba con unas de las funciones más primordiales para el funcionamiento del proyecto, estas son, especialmente: HAL_GPIO_WritePin, para escribir en los pines especificados el valor deseado (cero o uno) y el Delay. 
 
