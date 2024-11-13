@@ -1,0 +1,2 @@
+../drivers/LOW_LEVEL.c:14:6:lcd_send_command	24	static
+../drivers/LOW_LEVEL.c:51:6:lcd_send_data	24	static

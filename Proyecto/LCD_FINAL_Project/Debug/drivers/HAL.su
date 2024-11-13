@@ -1,0 +1,5 @@
+../drivers/HAL.c:12:6:HAL_GPIO_WritePin	32	static
+../drivers/HAL.c:26:6:HAL_GPIO_OutputConfig	24	static
+../drivers/HAL.c:32:6:DATA_OUTPUT	8	static
+../drivers/HAL.c:44:6:DATA_INPUT	8	static
+../drivers/HAL.c:56:6:HAL_Delay	32	static
